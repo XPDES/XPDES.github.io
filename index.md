@@ -1,0 +1,13 @@
+---
+layout: default
+title: XPDES Website
+---
+
+<div id="home">
+  <h1>News</h1>
+  <ul class="posts">
+    {% for post in site.categories.news %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
