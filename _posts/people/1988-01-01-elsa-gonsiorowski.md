@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Elsa Gonsiorowski
+category: people
 ---
 
 # Elsa Gonsiorowski

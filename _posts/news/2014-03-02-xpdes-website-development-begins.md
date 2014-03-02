@@ -1,5 +1,6 @@
 ---
 layout: post
+category: news
 ---
 # Development Has Begun!
 
