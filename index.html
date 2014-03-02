@@ -1,1 +1,13 @@
-Hello World
+---
+layout: default
+title: XPDES Website
+---
+
+<div id="home">
+  <h1>People</h1>
+  <ul class="posts">
+    {% for person in site.posts.people %}
+      <li><a href="{{ person.url }}">{{ person.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
