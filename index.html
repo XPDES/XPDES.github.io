@@ -6,8 +6,8 @@ title: XPDES Website
 <div id="home">
   <h1>People</h1>
   <ul class="posts">
-    {% for person in site.posts.people %}
-      <li><a href="{{ person.url }}">{{ person.title }}</a></li>
+    {% for post in site.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 </div>
