@@ -1,3 +1,23 @@
-name: XPDES Website
+# Dependencies
 markdown: redcarpet
 pygments: true
+
+# Premalinks
+permalink: pretty
+
+# Site Setup
+title: XPDES
+tagline: 'The eXtreme Parallel Discrete-Event Simulation Consortium'
+
+# name: XPDES Website
+
+author:
+  name: 'Elsa Gonsiorowski'
+  url: http://gonsie.com
+
+paginate: 1
+
+# Sidebar Vars
+#version: 1.0
+github:
+  repo: https://github.com/XPDES
