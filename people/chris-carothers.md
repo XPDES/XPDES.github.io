@@ -4,7 +4,7 @@ title: Christopher Carothers
 tags: rpi
 ---
 
-![headshot](/images/Carothers-HeadShot-1.jpg)
+<img src="/images/Carothers-HeadShot-1.jpg" alt="Chris Carothers" width=250px />
 
 One of the greatest advisors in academia. 
 
