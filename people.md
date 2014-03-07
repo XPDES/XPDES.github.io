@@ -11,7 +11,7 @@ XPDES brings together researchers from many different institutes.
 
 <ul>
 {% for page in site.pages %}
-   {% if page.tags == 'gtech' %}
+   {% if page.tags == 'gatech' %}
       <li><a href='{{page.url}}'>{{page.title}}</a></li>
    {% endif %}
 {% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Professor George Riley
-tags: gtech
+tags: gatech
 ---
 
 <img src="/images/GeorgeRiley131021BR417.jpg" alt="George Riley" style="width: 250px;"/>
