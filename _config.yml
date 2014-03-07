@@ -5,6 +5,9 @@ pygments: true
 # Premalinks
 permalink: pretty
 
+# Special
+include: ['.htaccess']
+
 # Site Setup
 title: XPDES
 tagline: 'The eXtreme Parallel Discrete-Event Simulation Consortium'

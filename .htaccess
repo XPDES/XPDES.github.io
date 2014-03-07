@@ -1,0 +1,4 @@
+AuthName "Members Only"
+AuthUserFile /cs/gonsie/.htpasswd
+AuthType Basic
+require valid-user
