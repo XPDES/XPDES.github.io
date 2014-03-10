@@ -12,7 +12,7 @@ XPDES brings together researchers from many different institutes.
 <ul>
 {% for page in site.pages %}
    {% if page.tags == 'gatech' %}
-      <li><a href='{{page.url}}'>{{page.title}}</a></li>
+      <li><a href='{{site.url}}{{page.url}}'>{{page.title}}</a></li>
    {% endif %}
 {% endfor %}
 </ul>
@@ -22,7 +22,7 @@ XPDES brings together researchers from many different institutes.
 <ul>
 {% for page in site.pages %}
    {% if page.tags == 'llnl' %}
-      <li><a href='{{page.url}}'>{{page.title}}</a></li>
+      <li><a href='{{site.url}}{{page.url}}'>{{page.title}}</a></li>
    {% endif %}
 {% endfor %}
 </ul>
@@ -32,7 +32,7 @@ XPDES brings together researchers from many different institutes.
 <ul>
 {% for page in site.pages %}
    {% if page.tags == 'rpi' %}
-      <li><a href='{{page.url}}'>{{page.title}}</a></li>
+      <li><a href='{{site.url}}{{page.url}}'>{{page.title}}</a></li>
    {% endif %}
 {% endfor %}
 </ul>

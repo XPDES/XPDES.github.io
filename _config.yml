@@ -6,14 +6,16 @@ pygments: true
 permalink: pretty
 
 # Special
-include: ['.htaccess']
+#include: ['.htaccess']
 
 # Site Setup
+#url: http://gonsie.myrpi.org
+
 title: XPDES
 tagline: 'The eXtreme Parallel Discrete-Event Simulation Consortium'
 description: 'The eXtreme Parallel Discrete-Event Simulation Consortium'
 
-# name: XPDES Website
+
 
 author:
   name: 'Elsa Gonsiorowski'
