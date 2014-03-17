@@ -36,3 +36,13 @@ XPDES brings together researchers from many different institutes.
    {% endif %}
 {% endfor %}
 </ul>
+
+## University of Illinois at Urbana-Champaign
+
+<ul>
+{% for page in site.pages %}
+   {% if page.tags == 'uiuc' %}
+      <li><a href='{{site.url}}{{page.url}}'>{{page.title}}</a></li>
+   {% endif %}
+{% endfor %}
+</ul>
