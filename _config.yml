@@ -18,8 +18,6 @@ title: XPDES
 tagline: 'The eXtreme Parallel Discrete-Event Simulation Consortium'
 description: 'The eXtreme Parallel Discrete-Event Simulation Consortium'
 
-
-
 author:
   name: 'Elsa Gonsiorowski'
   url: http://gonsie.com
@@ -30,3 +28,6 @@ paginate: 1
 #version: 1.0
 github:
   repo: https://github.com/XPDES
+
+# Exclude Files
+exclude: [README.md]
