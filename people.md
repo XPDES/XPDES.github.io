@@ -5,7 +5,7 @@ title: People
 
 # People Involved with XPDES
 
-XPDES brings together researchers from many different institutes.
+XPDES brings together researchers from several institutes.
 
 ## Georgia Institute of Technology
 
