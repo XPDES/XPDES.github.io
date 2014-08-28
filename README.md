@@ -22,4 +22,6 @@ title: 'Title for the titlebar'
 
 ## Adding a new page to the sidebar
 
-
+- Use `layout: page` in your frontmatter
+- Put your file in the top level of the directory
+- *TODO: add details about creating a new category of pages*
