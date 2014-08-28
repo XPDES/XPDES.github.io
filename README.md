@@ -11,8 +11,22 @@ Each page should begin with [Jekyll Frontmatter](http://jekyllrb.com/docs/frontm
 ---
 layout: sometypeoflayout
 title: 'Title for the titlebar'
+tag: sometag
 ---
 ```
+
+## Adding your biography
+
+Make your copy of the template file [people/template.md](https://github.com/XPDES/XPDES.github.io/blob/master/people/template.md).
+Then, be sure to update the following:
+
+- The file name should correlate your name
+- Biographies are stored in the people folder.
+- Denote your associated organization by adding a tag to your front matter.
+  - Currently processed tags are `llnl`, `uiuc`, `gatech`, and `rpi`
+- Adding your photo
+  - It should be stored in the image folder
+  - You will have to update the hard link to the photo 
 
 ## Adding a dated post (aka Announcement)
 
