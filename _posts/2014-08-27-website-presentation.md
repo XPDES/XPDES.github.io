@@ -29,6 +29,7 @@ This file is automatically parsed by GitHub, and will explain how other members 
 
 Is there a graphic or masthead we would like to associate with XPDES?
 Maybe branding colors and a certain font?
+We also need a favicon. 
 
 ## Deployment
 
