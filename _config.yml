@@ -22,6 +22,7 @@ author:
   name: 'Elsa Gonsiorowski'
   url: http://gonsie.com
 
+# number of posts that appear on a page
 paginate: 1
 
 # Sidebar Vars
