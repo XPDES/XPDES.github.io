@@ -31,4 +31,4 @@ github:
   repo: https://github.com/XPDES
 
 # Exclude Files
-exclude: [README.md]
+exclude: ['README.md','people/template.md']
