@@ -18,7 +18,7 @@ The website was created using cutting-edge open source technologies.
 - Currently missing some [people](/people)
 - Need more details on associated [software](/software)
 
-## Docmentation
+## Documentation
 
 The small protion of documentation needed for the site will sit in the README.md file.
 This file is automatically parsed by GitHub, and will explain how other members can contribute to the website.
