@@ -1,7 +1,5 @@
 # Dependencies
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+markdown: kramdown
 highlighter: pygments
 
 # Premalinks
@@ -20,7 +18,7 @@ description: 'The eXtreme Parallel Discrete-Event Simulation Consortium'
 
 author:
   name: 'Elsa Gonsiorowski'
-  url: http://gonsie.com
+  url: http://www.gonsie.com
 
 # number of posts that appear on a page
 paginate: 1
