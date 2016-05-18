@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Markus Schordan
-tags: LLNL
+tags: llnl
 ---
 
 <img src="{{site.url}}/images/markus-schordan.jpg" alt="Markus Schordan" style="width: 250px;"/>
