@@ -20,9 +20,6 @@ author:
   name: 'Elsa Gonsiorowski'
   url: http://www.gonsie.com
 
-# number of posts that appear on a page
-paginate: 1
-
 # Sidebar Vars
 #version: 1.0
 github:
