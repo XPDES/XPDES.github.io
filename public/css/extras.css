@@ -1,0 +1,14 @@
+span.date {
+  color: #aaa;
+  font-size: 80%;
+  float: left;
+  text-align: right;
+  width: 150px;
+  height: 40px;
+  line-height: 40px;
+  padding-right: 10px;
+}
+
+.content {
+	max-width: none !important;
+}
